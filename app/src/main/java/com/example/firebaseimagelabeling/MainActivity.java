@@ -54,6 +54,9 @@ public class MainActivity extends AppCompatActivity {
         cameraView.stop();
     }
 */
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
